@@ -80,4 +80,4 @@ class ViewController: UIViewController {
 
 
 # The result
-<img src='i.imgur.com/S66c3g7.png' width='300'/>
+<img src='http://i.imgur.com/S66c3g7.png' width='300'/>
